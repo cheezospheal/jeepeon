@@ -106,7 +106,7 @@ NOTE: This BOM is only for general users. For Half Life, please refer to BOM.csv
 |Total|-|$46.66|-|-|
 
 ## Extra Notes
-All parts for this project are either paid out of pocket or are already owned, thus no funding or grant is needed. The reason why printing is out of pocket is because I am unable to supply a cart screenshot/quote, as price may vary due to whether the print fails or not. The $14.61 is how much it is estimated to cost based on Toronto Public Library's own price per gram cost. Furthermore, all cart screenshots are not to be used to fund the grant, as they simply show what products I ALREADY OWN.
+All parts for this project are either paid out of pocket or are already owned, thus no funding or grant is needed. The reason why printing is out of pocket is because I am unable to supply a cart screenshot/quote, as price may vary due to whether the print fails or not. The $14.61 is how much it is estimated to cost based on Toronto Public Library's own price per gram cost.
 
 Additionally, the vendors labeled (Local) are local to me, so I do not have to pay for shipping as I can go to them in person. All shipping prices are based on my own address and ability to go in-person for certain vendors.
 
