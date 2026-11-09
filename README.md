@@ -92,7 +92,23 @@ All the parts that are separated must be glued together once they have been prin
 
 ## Bill of Materials
 
+NOTE: This BOM is only for general users. For Half Life, please refer to BOM.csv.
 
+|Part|Quantity|Price (USD)|Vendor|Link|
+|---|---|---|---|---|
+|Printing (PLA)|1|$14.61|Toronto Public Library|https://tpl.ca/using-the-library/computer-services/digital-innovation-services/3d-printers/|
+|Gel Super Glue|1|$0.88|Dollarama|https://dollarama.instacart.com/store/dollarama/products/27058631-adhaero-thick-gel-super-glue-3-g|
+|80 & 120 Grit Sandpaper|1|$0.35|Home Depot|https://www.homedepot.ca/product/everbilt-2-95-inch-x-4-92-inch-x-1-inch-dual-grit-80-120-fine-medium-sanding-sponge/1001942562|
+|Filler Primer|1|$8.88|TG Store|https://tgstore.ca/products/kq462-automotive-filler-primer?variant=51307277287717&country=CA&currency=CAD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4URmFMOGqa499MFSUJuuVvjuKM-fAgAOx2L9aUcWEAg2i1EvLpyRvo|
+|Acrylic Paint|1|$3.36|Dollarama|https://dollarama.instacart.com/store/dollarama/products/27058703-artist-s-series-acrylic-paint-tubes-24-ct|
+|Spray Matte Finish|1|$10.58|Walmart|http://walmart.ca/en/ip/Krylon-UV-Resistant-Clear-Coating-Matte-Clear-312-g/6000207323847|
+|Taxes & Shipping|-|$8.67|-|-|
+|Total|-|$46.66|-|-|
 
+## Extra Notes
+All parts for this project are either paid out of pocket or are already owned, thus no funding or grant is needed. The reason why printing is out of pocket is because I am unable to supply a cart screenshot/quote, as price may vary due to whether the print fails or not. The $14.61 is how much it is estimated to cost based on Toronto Public Library's own price per gram cost. Furthermore, all cart screenshots are not to be used to fund the grant, as they simply show what products I ALREADY OWN.
 
+Additionally, the vendors labeled (Local) are local to me, so I do not have to pay for shipping as I can go to them in person. All shipping prices are based on my own address and ability to go in-person for certain vendors.
+
+I love making art toys! It's a lot harder than I thought it would be, but I'm super glad I at least got to make one and can't wait to make more! 
 
